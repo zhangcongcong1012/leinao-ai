@@ -8,6 +8,8 @@ public class LeinaoAiAgentApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LeinaoAiAgentApplication.class, args);
+
+
     }
 
 }
